@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "a51c53060d171d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20536b24ba056be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c28ea86a7d95ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第二次实验/贪心算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "贪心算法"
+            }
+          },
+          {
+            "id": "dbce50dbecc0b13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三次实验/动态规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "动态规划"
+            }
+          },
+          {
+            "id": "880279322b7a37a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第四次实验/回溯法.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "回溯法"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "963b26994b34ff6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dada5b62c06da3ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54138915005a94d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "11f572ecebc25c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "14e765604889eef8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bd9d213d34fb290",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e61df035395a83b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09dd8353744d325c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第二次实验/贪心算法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "贪心算法 的反向链接列表"
+            }
+          },
+          {
+            "id": "8c2678ef37b64347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第二次实验/贪心算法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "贪心算法 的出链列表"
+            }
+          },
+          {
+            "id": "d4b958fa94482317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "984c9ef79958f8df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "40c545a547e77af8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第二次实验/贪心算法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "贪心算法 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "880279322b7a37a8",
+  "lastOpenFiles": [
+    "第四次实验/input.txt",
+    "第四次实验/maze_backtracking",
+    "第四次实验/maze_backtracking.c",
+    "第三次实验/动态规划.md",
+    "第四次实验/回溯法.md",
+    "第四次实验",
+    "第三次实验/11",
+    "第三次实验/11.c",
+    "第二次实验/贪心算法.md",
+    "第三次实验",
+    "第二次实验/test_all.sh",
+    "第二次实验/运行指南.md",
+    "第二次实验/实验报告.md",
+    "第二次实验/input4.txt",
+    "第二次实验/input3.txt",
+    "第二次实验/input2.txt",
+    "第一次实验/docs/第一次实验.md"
+  ]
+}
