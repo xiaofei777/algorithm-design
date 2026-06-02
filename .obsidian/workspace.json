@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第四次实验/回溯法.md",
-                "mode": "source",
+                "file": "第四次实验/实验报告.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "回溯法"
+              "title": "实验报告"
             }
           }
         ],
@@ -214,20 +214,24 @@
   },
   "active": "880279322b7a37a8",
   "lastOpenFiles": [
+    "第四次实验/回溯法.md",
+    "第四次实验/实验报告.md",
+    "第二次实验/实验报告.md",
+    "第四次实验/运行文档.md",
+    "实验报告基本要求.md",
     "README.md",
+    "第二次实验/贪心算法.md",
+    "第二次实验/实验报告基本要求.md",
     "第四次实验/input.txt",
     "第四次实验/maze_backtracking",
     "第四次实验/maze_backtracking.c",
     "第三次实验/动态规划.md",
-    "第四次实验/回溯法.md",
     "第四次实验",
     "第三次实验/11",
     "第三次实验/11.c",
-    "第二次实验/贪心算法.md",
     "第三次实验",
     "第二次实验/test_all.sh",
     "第二次实验/运行指南.md",
-    "第二次实验/实验报告.md",
     "第二次实验/input4.txt",
     "第二次实验/input3.txt",
     "第一次实验/docs/第一次实验.md"
